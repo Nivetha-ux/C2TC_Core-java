@@ -1,7 +1,5 @@
 package Day1;
 
-public class DataTypes {
-
 	public class DataTypesDemo {
 
 		public static void main(String[] args) {
@@ -24,4 +22,4 @@ public class DataTypes {
 			
 		}
 	}
-}
+

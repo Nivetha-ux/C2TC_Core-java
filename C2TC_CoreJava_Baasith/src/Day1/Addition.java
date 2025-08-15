@@ -6,10 +6,10 @@ public class Addition {
 		int b;
 		int c;
 		
-		Scanner sc = new Scanner(System.in);
+		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter the values: ");
-		a = sc.nextInt();
-		b = sc.nextInt();
+		a = scan.nextInt();
+		b = scan.nextInt();
 		c = a+b;
 		System.out.print(c);
 	}

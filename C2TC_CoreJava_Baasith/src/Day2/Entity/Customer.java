@@ -1,12 +1,15 @@
-package day2.entiyl;
+package Day2.Entity;
 
 public class Customer {
 	private int cid;
 	private String cname;
 	private String city;
 	
-	public void getCid() {
+	public int getCid() {
 		return cid;
+	}
+	public void setCid(int cid) {
+		this.cid = cid;
 	}
 	public String getCname() {
 		return cname;

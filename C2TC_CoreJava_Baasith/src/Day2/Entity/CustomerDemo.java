@@ -1,4 +1,4 @@
-package day2.entiyl;
+package Day2.Entity;
 
 public class CustomerDemo {
 

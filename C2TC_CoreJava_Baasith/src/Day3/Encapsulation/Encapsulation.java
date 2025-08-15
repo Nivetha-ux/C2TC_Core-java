@@ -1,7 +1,7 @@
 //Program to demonstrate class and object 
-package DAY3;
+package Day3.Encapsulation;
 
-public class EncapsulationDemo {
+public class Encapsulation {
 	public static void main(String[] args) {
 		
 		//object creation 

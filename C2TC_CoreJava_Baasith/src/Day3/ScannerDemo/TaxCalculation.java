@@ -1,5 +1,5 @@
 //Program to demonstrate encapsulation
-package DAY3;
+package Day3.ScannerDemo;
 
 public class TaxCalculation {
 	// function to calculate tax
